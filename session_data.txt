@@ -1,0 +1,10 @@
+CURRENT
+a.com
+BACK 0
+FORWARD 2
+b.com
+c.com
+HISTORY 3
+a.com
+b.com
+c.com
