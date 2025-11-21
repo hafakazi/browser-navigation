@@ -1,8 +1,6 @@
 # Student Info
 * Name: Hafa Kazi
-* Net ID: nsk210004
 * Course: CS 3345
-* Section: 002
 * Date: 09/28/2025
 
 # Browser Navigation — README
@@ -151,4 +149,5 @@ HISTORY <K>
 - Back/forward when empty → expected error messages.
 - Visit after going back → forward stack is cleared.
 - History order remains chronological.
+
 - Save, restart, restore → current page, stacks, and history preserved.
